@@ -5,10 +5,8 @@ public class HelloWorld {
         System.out.println("   /\\_/\\     ------ ");
         System.out.println("  / o o \\  / Welcome \\");
         System.out.println(" (   \"   ) <   To    |");
-        System.out.println("  \\~(*)~/  \\ CS151! /");
+        System.out.println("  \\~(*)~/  \\ GitHub! /");
         System.out.println("   // \\\\     ------ ");
 
-
     }
-
 }
