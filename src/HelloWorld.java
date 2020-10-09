@@ -5,7 +5,7 @@ public class HelloWorld {
         System.out.println("   /\\_/\\     ------ ");
         System.out.println("  / o o \\  / Welcome \\");
         System.out.println(" (   \"   ) <   To    |");
-        System.out.println("  \\~(*)~/  \\ GitHub! /");
+        System.out.println("  \\~(*)~/  \\ GitHub Demo! /");
         System.out.println("   // \\\\     ------ ");
 
     }
